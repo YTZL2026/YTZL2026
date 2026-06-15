@@ -1,87 +1,90 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=YTZL2026&fontSize=80&animation=fadeIn&fontAlignY=35&desc=鍖荤枟淇℃伅鍖栧紑鍙戣€?20|%20AI%20鎺㈢储鑰?20|%20寮€婧愮埍濂借€?descAlignY=55" />
+# Hi, I'm YTZL2026
 
-<p>
-  <a href="https://github.com/YTZL2026"><img src="https://img.shields.io/badge/GitHub-YTZL2026-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:YTZL2026@qq.com"><img src="https://img.shields.io/badge/Email-YTZL2026@qq.com-red?style=for-the-badge&logo=gmail" /></a>
-</p>
+### 一个小白的开源之路
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=YTZL2026&style=flat-square&color=blue" alt="Profile views" />
-</p>
+<sub>医疗信息化 · 人工智能 · 游戏自动化 · Claude Skills</sub>
+
+---
 
 </div>
 
----
+### 项目矩阵
 
-## 馃憢 浣犲ソ锛屾垜鏄?YTZL2026
+<table>
+<tr>
+<td width="50%">
 
-涓€鍚嶅湪**杈藉畞涓尰鍢夊拰鍖婚櫌**宸ヤ綔鐨勫尰鐤椾俊鎭寲寮€鍙戣€呫€傜櫧澶╁啓鍖婚櫌绠＄悊绯荤粺锛屾櫄涓婄敤 AI 鎼炲紑婧愰」鐩€?
-> 馃幆 鎴戠殑鐩爣锛氱敤 AI + 寮€婧愶紝璁╀腑灏忓尰闄篃鑳介浂鎴愭湰鐢ㄤ笂濂借蒋浠躲€?
-## 馃洜锔?鎶€鏈爤
+#### 医疗不良事件系统
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://github.com/YTZL2026/medical-adverse-events)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/YTZL2026/medical-adverse-events)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,fastapi,opencv,git,vscode&theme=dark" />
-</p>
+医院医疗不良事件上报与分析系统，支持全格式文件批量导入（docx/xps/pdf/图片），A-H 八大模块 + 统计分析 + 台帐管理。
 
-## 馃搳 GitHub 缁熻
+`hospital` `medical` `adverse-events` `patient-safety` `python`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YTZL2026&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTZL2026&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YTZL2026&theme=tokyonight&hide_border=true" />
-</p>
+#### 灵枢AI掌纹
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)](https://github.com/YTZL2026/lingshu-ai-palm)
+[![license](https://img.shields.io/badge/license-AGPL--3.0-green)](https://github.com/YTZL2026/lingshu-ai-palm)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YTZL2026&theme=tokyonight&no-frame=true&column=7" />
-</p>
+基于计算机视觉的 AI 掌纹分析系统，结合中医体质学说，支持 Flask App / WebView / 移动端多形态部署。
 
----
+`ai` `tcm` `palmprint` `chinese-medicine` `computer-vision`
 
-## 馃搶 绮鹃€夐」鐩?
-<p align="center">
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-<a href="https://github.com/YTZL2026/medical-adverse-events">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YTZL2026&repo=medical-adverse-events&theme=tokyonight&hide_border=true" />
-</a>
+#### 宝箱怪脚本
+[![AutoJS](https://img.shields.io/badge/AutoX.js-v7-green)](https://github.com/YTZL2026/meetlove-chest-bot)
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/YTZL2026/meetlove-chest-bot)
 
-<a href="https://github.com/YTZL2026/lingshu-ai-palm">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YTZL2026&repo=lingshu-ai-palm&theme=tokyonight&hide_border=true" />
-</a>
+AutoX.js 游戏自动挂机脚本，含自动寻路、战斗、骑乘模块，提供 Python ADB 双版本。附带产品页与效率校准数据。
 
-<a href="https://github.com/YTZL2026/meetlove-chest-bot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YTZL2026&repo=meetlove-chest-bot&theme=tokyonight&hide_border=true" />
-</a>
+`auto-js` `game-automation` `bot` `meetlove`
 
-<a href="https://github.com/YTZL2026/claude-skills">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YTZL2026&repo=claude-skills&theme=tokyonight&hide_border=true" />
-</a>
+</td>
+<td width="50%">
 
-</p>
+#### Claude Skills
+[![Claude](https://img.shields.io/badge/Claude-Code-orange)](https://github.com/YTZL2026/claude-skills)
+[![license](https://img.shields.io/badge/license-CC--BY-lightgrey)](https://github.com/YTZL2026/claude-skills)
 
----
+12 个 Claude Code 生产力技能：批量文件导入、角色人设设计、分镜排版、项目迁移打包、图片 OCR 等。
 
-## 馃尡 杩戞湡鍔ㄦ€?
-- 馃敪 姝ｅ湪寮€鍙戯細AI 鎺岀汗婧簮鐏垫灑 v3锛屽妯℃€佽垖璇?闈㈣瘖铻嶅悎
-- 馃尶 姝ｅ湪瀛︿範锛歊eact + TypeScript 鐜颁唬鍖栧墠绔?- 馃挰 娆㈣繋浜ゆ祦锛氬尰鐤椾俊鎭寲銆丄I+涓尰銆佹父鎴忚嚜鍔ㄥ寲
-- 鈿?鏈夎叮鐨勪簨锛氭垜鐢?AI 鍐欎簡澶ч儴鍒嗕唬鐮侊紝AI 鏄垜鐨勬渶寮?Copilot
+`claude-code` `ai-tools` `skills` `automation`
+
+</td>
+</tr>
+</table>
 
 ---
 
+### 技术栈
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YTZL2026/YTZL2026/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YTZL2026/YTZL2026/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/YTZL2026/YTZL2026/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AutoX.js-00C853?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>鉁?濡傛灉鎴戠殑椤圭洰瀵逛綘鏈夊府鍔╋紝璇风粰涓?Star 猸?/sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=YTZL2026&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YTZL2026&layout=compact&theme=github_dark&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <samp>Stars 从零开始。但每个项目都解决了真问题。</samp>
 </p>
